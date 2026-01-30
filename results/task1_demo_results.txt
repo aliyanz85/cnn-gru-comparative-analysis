@@ -1,0 +1,17 @@
+Task 1 Demo Results
+==============================
+
+Accuracy: 0.4450
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.45      0.50      0.47        42
+           1       0.44      0.30      0.35        47
+           2       0.35      0.61      0.45        28
+           3       0.52      0.56      0.54        39
+           4       0.48      0.34      0.40        44
+
+    accuracy                           0.45       200
+   macro avg       0.45      0.46      0.44       200
+weighted avg       0.45      0.45      0.44       200

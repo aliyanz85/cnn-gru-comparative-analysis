@@ -1,0 +1,18 @@
+Proper Task 1: CNN for Signature Recognition - Results
+============================================================
+
+CNN:
+  Accuracy: 0.1025
+  Precision: 0.0105
+  Recall: 0.1025
+  F1-Score: 0.0191
+
+HOG + SVM:
+  Accuracy: 0.1050
+
+SIFT + SVM:
+  Accuracy: 0.1025
+
+HOG + LR:
+  Accuracy: 0.1075
+

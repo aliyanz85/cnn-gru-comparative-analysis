@@ -1,0 +1,20 @@
+Ultra-Optimized GRU Word Completion Results
+============================================================
+
+Training Time: 93.05 seconds (1.55 minutes)
+Vocabulary Size: 2,977
+Training Sequences: 47,653
+Model Parameters: 770,053
+Architecture: GRU(128) + Embedding(100) + FC
+Sequence Length: 15, Batch Size: 32, Epochs: 2
+
+Training Progress:
+Epoch 1: Train Loss = 5.6083, Val Loss = 5.4352
+Epoch 2: Train Loss = 4.9770, Val Loss = 5.3508
+
+Sample Completions:
+'To be or not to be' -> 'To be or not to be <UNK> at <UNK> , <UNK> : no nobleman , and what to'
+'All the world's a stage' -> 'All the world's a stage flood to sell great their dark to this house , soft to'
+'Romeo Romeo wherefore art thou' -> 'Romeo Romeo wherefore art thou <UNK> my departure ?'
+'What light through yonder window' -> 'What light through yonder window upon least <UNK> of <UNK> , my <UNK> life to set was'
+'Friends Romans countrymen' -> 'Friends Romans countrymen of his case , to their <UNK> betwixt me love him in'

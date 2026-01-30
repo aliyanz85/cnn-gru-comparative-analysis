@@ -1,0 +1,34 @@
+Task 2: LSTM for Word Completion - Results
+==================================================
+
+Hyperparameter Experiment Results:
+n2:
+  N-gram Size: 2
+  Perplexity: 24844.2151
+  Accuracy: 0.0370
+  Vocabulary Size: 81
+
+n3:
+  N-gram Size: 3
+  Perplexity: 24844.2151
+  Accuracy: 0.0000
+  Vocabulary Size: 81
+
+n4:
+  N-gram Size: 4
+  Perplexity: 24844.2151
+  Accuracy: 0.0000
+  Vocabulary Size: 81
+
+n5:
+  N-gram Size: 5
+  Perplexity: 24844.2151
+  Accuracy: 0.0000
+  Vocabulary Size: 81
+
+Generated Text Samples:
+  seed_1: To be or not to be or not to be or not to praise him the evil that men do lives after them the good is
+  seed_2: All the world's a stage and all the worlds a stage and all the men and women merely players they have their exits and their
+  seed_3: Romeo Romeo wherefore art thou romeo deny thy father and refuse thy name or if thou wilt not be but sworn my love and ill
+  seed_4: What light through yonder window breaks it is the east and juliet is the question whether tis nobler in the mind to suffer the slings
+  seed_5: Friends Romans countrymen not is the sun friends romans countrymen lend me your ears i come to bury caesar not to praise him
