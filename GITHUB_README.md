@@ -84,7 +84,7 @@ Embedding(vocab_size=2977, dim=100) → GRU(hidden_size=128, layers=1)
 
 ### Environment Setup
 ```bash
-git clone https://github.com/yourusername/cnn-gru-comparative-analysis
+git clone https://github.com/aliyanz85/cnn-gru-comparative-analysis
 cd cnn-gru-comparative-analysis
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -129,7 +129,7 @@ If you use this work in your research, please cite:
   title={Comparative Analysis of CNN and GRU Architectures for Pattern Recognition and Text Generation},
   author={Ahmad, Malik},
   year={2026},
-  url={https://github.com/yourusername/cnn-gru-comparative-analysis}
+  url={https://github.com/aliyanz85/cnn-gru-comparative-analysis}
 }
 ```
 
