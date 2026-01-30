@@ -29,3 +29,13 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Personal/Setup files
+github_setup_commands.sh
+generate_linkedin_image.py
+LINKEDIN_POST*.md
+LINKEDIN_RESEARCH_POST.png
+
+# Demo/temporary files
+*demo*
+*temp*
