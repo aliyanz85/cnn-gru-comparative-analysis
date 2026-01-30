@@ -64,7 +64,7 @@ The complete research paper, implementation code, and experimental results are a
 
 #DeepLearning #MachineLearning #ComputerVision #NLP #Research #AI #CNN #RNN #PyTorch #DataScience
 
-Link to repository: [GitHub URL will be added]
+Link to repository: https://github.com/aliyanz85/cnn-gru-comparative-analysis
 
 ---
 
