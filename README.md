@@ -31,8 +31,7 @@ A comparative study of CNN-based deep learning and traditional feature extractio
 ├── models/                          # Trained model weights
 ├── results/                         # Evaluation outputs and visualizations
 ├── requirements.txt                 # Python dependencies
-├── run_assignment.py                # Main execution script
-└── create_zip.py                    # ZIP bundle creation
+└── run.py                           # Main execution script
 ```
 
 ---
@@ -56,16 +55,16 @@ pip install -r requirements.txt
 
 **Run full pipeline:**
 ```bash
-python run_assignment.py
+python run.py
 ```
 
 **Run individual tasks:**
 ```bash
 # Signature Recognition (CNN vs. HOG vs. SIFT)
-python run_assignment.py --task 1
+python run.py --task 1
 
 # Text Generation (LSTM)
-python run_assignment.py --task 2
+python run.py --task 2
 ```
 
 **Launch the interactive text generation UI:**
@@ -112,6 +111,12 @@ The deep CNN significantly outperforms traditional handcrafted feature pipelines
 ## Results
 
 Detailed evaluation metrics, confusion matrices, and visualizations are available in the `results/` directory.
+
+---
+
+## Author
+
+**Aliyan Zafar** — [GitHub](https://github.com/aliyanz85)
 
 ---
 
